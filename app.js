@@ -21,3 +21,4 @@ for (let i = 1; i <= 5; i++) {
 
 // Calling the function
 greetUser(name);
+console.log("first")
